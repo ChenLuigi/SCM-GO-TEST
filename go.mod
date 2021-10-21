@@ -7,7 +7,7 @@ require (
 	github.com/gookit/color v1.4.2
 	github.com/hashicorp/go-version v1.1.0 // used onlu in tests
 	github.com/mholt/archiver/v3 v3.5.0
-	github.com/my-private-gh-user-for-gh/balbla v3.5.0
+	github.com/my-private-gh-user-for-gh/balbla/v3 v3.5.0
 )
 
 replace (
